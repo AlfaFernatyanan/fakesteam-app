@@ -1,6 +1,6 @@
 import Footer from "../../components/Footer/Footer";
 import Navbar from "../../components/Navbar/Navbar";
-import Content from "./components/Content/Content";
+import Content from "./Content/Content";
 import StoreSideNavbar from "./components/StoreSideNavbar/StoreSideNavbar";
 import StoreTopNavbar from "./components/StoreTopNavbar/StoreTopNavbar";
 import "./StorePage.css";
@@ -22,7 +22,7 @@ function StorePageDetail() {
       <div className="store-page-wrapper">
         <StoreTopNavbar />
         <div className="content">
-          <Content/>
+          <Content />
         </div>
       </div>
     </div>

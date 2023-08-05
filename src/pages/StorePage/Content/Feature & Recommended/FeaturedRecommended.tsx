@@ -1,4 +1,4 @@
-import frRightImageData from "../../../../../assets/DummyDatas/FRRightImageData";
+import frRightImageData from "../../../../assets/DummyDatas/FRRightImageData";
 import FRRightImage from "./FRRightImage";
 import "./FeaturedRecommended.css";
 

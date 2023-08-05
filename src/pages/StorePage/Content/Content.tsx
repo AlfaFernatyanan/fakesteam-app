@@ -1,5 +1,5 @@
 import "./Content.css"
-import FeaturedRecommended from "./Featured & Recommended/FeaturedRecommended"
+import FeaturedRecommended from "./Feature & Recommended/FeaturedRecommended"
 
 function Content() {
   return (
