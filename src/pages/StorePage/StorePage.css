@@ -1,0 +1,12 @@
+.store-page-detail {
+  display: flex;
+  width: 96%;
+  height: 100vh;
+  padding-left: 63px;
+  background-color: #193144;
+}
+.store-page-wrapper {
+  padding: 31px 60px;
+  width: -webkit-fill-available;
+  background-color: #213e59;
+}

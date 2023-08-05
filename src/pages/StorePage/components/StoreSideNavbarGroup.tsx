@@ -1,6 +1,6 @@
-import "./LeftBodyGroup.css";
+import "./StoreSideNavbarGroup.css";
 
-function LeftBodyGroup(props: LeftBodyGroupModel) {
+function StoreSideNavbarGroup(props: StoreSideNavbarModel) {
   return (
     <div className="left-body-group">
       <h1>{props.title}</h1>
@@ -11,4 +11,4 @@ function LeftBodyGroup(props: LeftBodyGroupModel) {
   );
 }
 
-export default LeftBodyGroup;
+export default StoreSideNavbarGroup;

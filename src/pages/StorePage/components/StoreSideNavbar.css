@@ -1,0 +1,19 @@
+.side-navbar {
+    padding: 20px 20px 20px 10px;
+    display: block;
+    width: 210px;
+    background-color: #193144;
+  }
+  .side-navbar h1 {
+    color: #536f86;
+    font-size: 15px;
+  }
+  .side-navbar a {
+    color: #7a8b9d;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+  }
+  

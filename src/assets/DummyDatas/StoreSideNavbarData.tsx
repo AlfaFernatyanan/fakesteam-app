@@ -1,4 +1,4 @@
-const leftData: LeftBodyGroupModel[] = [
+const storeSideNavbar: StoreSideNavbarModel[] = [
   {
     title: "RECENTLY VIEWED",
     items: [
@@ -88,4 +88,4 @@ const leftData: LeftBodyGroupModel[] = [
     ],
   },
 ];
-export default leftData;
+export default storeSideNavbar;

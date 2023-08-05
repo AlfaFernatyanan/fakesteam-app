@@ -1,4 +1,4 @@
-const storeNavAreaData = [
+const storeTopNavbarData = [
   "Your Store",
   "New & Nowerthy",
   "Categories",
@@ -6,4 +6,4 @@ const storeNavAreaData = [
   "News",
   "Labs",
 ];
-export default storeNavAreaData;
+export default storeTopNavbarData;

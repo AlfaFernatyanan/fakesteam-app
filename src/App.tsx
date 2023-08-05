@@ -1,13 +1,9 @@
-import Body from "./components/Body/Body";
-import Navbar from "./components/Navbar/Navbar";
-import Footer from "./components/Footer/Footer";
+import StorePage from "./pages/StorePage/StorePage";
 
 function App() {
   return (
     <div>
-      <Navbar />
-      <Body />
-      <Footer />
+      <StorePage />
     </div>
   );
 }
