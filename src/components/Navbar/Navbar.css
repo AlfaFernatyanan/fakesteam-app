@@ -1,0 +1,25 @@
+.navbar {
+  background: #171d25;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}
+
+.menu a {
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+  font-family: "Motiva Sans", "Twemoji", "Noto Sans", Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.global-action a {
+  text-decoration: none;
+  color: white;
+  margin: 0 10px;
+}

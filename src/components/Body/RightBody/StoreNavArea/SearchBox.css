@@ -1,0 +1,33 @@
+.button {
+  background-color: #559fcc;
+  width: 40px;
+}
+
+.search-box {
+  border-radius: 3px;
+  display: flex;
+  background: #316282;
+  height: fit-content;
+}
+
+.search-box input {
+  width: 180px;
+  padding-right: 10px;
+  margin-top: 10px;
+  border-style: none;
+  margin-left: 5px;
+  background-color: #316282;
+}
+input:focus {
+  outline: none;
+  color: white;
+}
+::placeholder {
+  font-style: italic;
+  color: #0e1c25;
+  font-size: 14px;
+  margin-top: 1px;
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.1);
+  font-family: "Motiva Sans", Sans-serif;
+  font-weight: 300;
+}

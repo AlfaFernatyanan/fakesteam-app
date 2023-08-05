@@ -1,0 +1,18 @@
+.left-body {
+  padding: 20px 20px 20px 10px;
+  display: block;
+  width: 210px;
+  background-color: #193144;
+}
+.left-body h1 {
+  color: #536f86;
+  font-size: 15px;
+}
+.left-body a {
+  color: #7a8b9d;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+}

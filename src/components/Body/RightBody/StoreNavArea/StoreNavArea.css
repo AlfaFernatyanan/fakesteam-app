@@ -1,0 +1,11 @@
+.store-nav-area {
+  background-color: #336a9d;
+  justify-content: flex-end;
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.sna-menu {
+  display: flex;
+  margin-right: auto;
+}
