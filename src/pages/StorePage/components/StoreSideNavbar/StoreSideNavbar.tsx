@@ -1,6 +1,6 @@
 import "./StoreSideNavbar.css";
 import StoreSideNavbarGroup from "./StoreSideNavbarGroup";
-import storeSideNavbar from "../../../assets/DummyDatas/StoreSideNavbarData";
+import storeSideNavbar from "../../../../assets/DummyDatas/StoreSideNavbarData";
 
 function StoreSideNavbar() {
   return (

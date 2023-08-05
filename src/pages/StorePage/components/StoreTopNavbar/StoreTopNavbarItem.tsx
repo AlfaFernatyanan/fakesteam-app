@@ -1,4 +1,4 @@
-
+import "./StoreTopNavbarItem.css"
 
 function StoreTopNavbarItem(props:any) {
   return (

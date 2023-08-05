@@ -1,0 +1,11 @@
+.store-top-navbar{
+    background-color: #336a9d;
+    justify-content: flex-end;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
+.stn-menu{
+    display: flex;
+    margin-right: auto;
+}

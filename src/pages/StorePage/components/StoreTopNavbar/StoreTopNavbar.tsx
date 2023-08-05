@@ -1,4 +1,4 @@
-import storeTopNavbarData from "../../../assets/DummyDatas/StoreTopNavbarData";
+import storeTopNavbarData from "../../../../assets/DummyDatas/StoreTopNavbarData";
 import SearchBox from "./SearchBox";
 import "./StoreTopNavbar.css";
 import StoreTopNavbarItem from "./StoreTopNavbarItem";

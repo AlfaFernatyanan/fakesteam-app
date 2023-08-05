@@ -1,6 +1,8 @@
 import Footer from "../../components/Footer/Footer";
 import Navbar from "../../components/Navbar/Navbar";
-import StoreSideNavbar from "./components/StoreSideNavbar";
+import Content from "./components/Content/Content";
+import StoreSideNavbar from "./components/StoreSideNavbar/StoreSideNavbar";
+import StoreTopNavbar from "./components/StoreTopNavbar/StoreTopNavbar";
 import "./StorePage.css";
 
 function StorePage() {
@@ -18,8 +20,10 @@ function StorePageDetail() {
     <div className="store-page-detail">
       <StoreSideNavbar />
       <div className="store-page-wrapper">
-        {/* <StoreTopNavbar />
-        <div className="content"></div> */}
+        <StoreTopNavbar />
+        <div className="content">
+          <Content/>
+        </div>
       </div>
     </div>
   );
