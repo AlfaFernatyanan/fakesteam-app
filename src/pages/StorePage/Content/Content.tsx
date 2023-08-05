@@ -1,10 +1,14 @@
-import "./Content.css"
-import FeaturedRecommended from "./Feature & Recommended/FeaturedRecommended"
+import "./Content.css";
+import FeaturedRecommended from "./FeatureRecommended/FeaturedRecommended";
+import SpecialOffers from "./SpecialOffers/SpecialOffers";
 
 function Content() {
   return (
-    <div><FeaturedRecommended/> </div>
-  )
+    <div className="content">
+      <FeaturedRecommended />
+      <SpecialOffers />
+    </div>
+  );
 }
 
-export default Content
+export default Content;

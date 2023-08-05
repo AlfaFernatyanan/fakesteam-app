@@ -21,9 +21,7 @@ function StorePageDetail() {
       <StoreSideNavbar />
       <div className="store-page-wrapper">
         <StoreTopNavbar />
-        <div className="content">
-          <Content />
-        </div>
+        <Content />
       </div>
     </div>
   );

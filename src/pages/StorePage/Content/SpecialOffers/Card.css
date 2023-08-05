@@ -1,0 +1,14 @@
+.card {
+  width: 350px;
+}
+.card-info {
+  padding: 8px 16px 12px 16px;
+  color: #ffffff;
+  font-size: 12px;
+  background: url("https://store.cloudflare.steamstatic.com/public/images/v6/home/background_spotlight.jpg")
+    bottom center no-repeat;
+  background-size: cover;
+}
+.card-image {
+  width: -webkit-fill-available;
+}

@@ -1,0 +1,16 @@
+.small-card {
+  width: 350px;
+  background: linear-gradient(to bottom, #ffffff 5%, #abdaf4 95%);
+}
+.small-card-image {
+  width: -webkit-fill-available;
+}
+
+.small-card-text {
+  color: #283846;
+  font-size: 18px;
+  font-weight: bold;
+  align-items: center;
+  padding: 16px;
+  display: inline-flex;
+}

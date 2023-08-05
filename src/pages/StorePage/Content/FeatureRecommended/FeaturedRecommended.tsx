@@ -5,7 +5,7 @@ import "./FeaturedRecommended.css";
 function FeaturedRecommended() {
   return (
     <div className="featured-recommended">
-      <a>FEATURE & RECOMMENDED</a>
+      <div className="featured-recommended-title">FEATURES & RECOMMENDED</div>
       <div className="container">
         <div className="leftImage-item">
           <img
